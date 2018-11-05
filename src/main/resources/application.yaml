@@ -1,0 +1,6 @@
+datastore:
+  kind: ivan-test
+
+logging:
+  level:
+    com.andersen.peakwork: debug
